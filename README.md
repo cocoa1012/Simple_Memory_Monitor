@@ -41,7 +41,8 @@ If abnormal detected, you will get mail like:
 And then, tou can use tools like [htop](https://github.com/hishamhm/htop) to figure out what happened.
 - Step 4: If there is a large number of processes, use [kill.py](kill.py) to kill them all.
 <br>
-If you found somthing like this
+If you found somthing like this:
+
 ![htop_screen_shot](/images/htop_screen_shot.png "htop_screen_shot")
 Use [kill.py](kill.py) to kill all processes.
 ``` console
